@@ -8,7 +8,7 @@ I own partner & merchant API integrations end-to-end — and build the AI-assist
 
 ## 🚀 About Me
 
-- 🚀 **Integrations Engineer at Quadion Technologies** — I lead technical developer support across the Consumer, Loyalty, and Partner REST APIs: certifying new partner & POS/kiosk integrations from sandbox validation through production, and diagnosing issues down to the source-code and log level.
+- 🚀 **Integrations Engineer** — I lead technical developer support across the Consumer, Loyalty, and Partner REST APIs: certifying new partner & POS/kiosk integrations from sandbox validation through production, and diagnosing issues down to the source-code and log level.
 - 🤖 **AI & automation** — I design AI-assisted developer-support systems with Claude / the Anthropic SDK, the Model Context Protocol (MCP), and agentic workflows that automate triage, diagnosis, certification, and documentation at scale.
 - 🧩 **Backend-strong, full-stack capable** — I ship production code across Python (Django, FastAPI), TypeScript/Node, and Java/Spring Boot.
 - 🌱 **Always learning** — I treat software as a craft that rewards continuous improvement.
